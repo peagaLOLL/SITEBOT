@@ -1,1 +1,1 @@
-ECHO est  ativado.
+worker: python bot.py
